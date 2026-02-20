@@ -1,3 +1,3 @@
-# meshcore_app
+# mesh-all
 
 A new Flutter project.
